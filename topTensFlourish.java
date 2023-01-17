@@ -29,10 +29,10 @@ import com.tsunderebug.speedrun4j.game.run.RunList;
 
 public class topTensFlourish {
 	
-	public static final String GAME_ID = "fpa2";
+	public static final String GAME_ID = "whg1";
 	public static final String CATEGORY_NAME = "Any%";
 	public static final int NTH_DAY = 7;
-	public static final String[] SUBCATEGORIES = {"No Major Glitches"};
+	public static final String[] SUBCATEGORIES = {"Flash"};
 	public static final String level = "";
 	
 	public static void main(String[] args) throws IOException {
