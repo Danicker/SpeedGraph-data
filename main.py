@@ -12,7 +12,7 @@ from os import path
 from decimal import Decimal
 from datetime import datetime
 
-directory = "fpa2 any"
+directory = "my_folder"
 animation_duration = int(1400/7)
 
 class bcolors:
